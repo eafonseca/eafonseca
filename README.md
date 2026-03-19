@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web`**
 
-Me chamo Júlya Fonseca Couto, tenho 20 anos e sou natural do Goiás. Concluí o ensino médio no IFES. Atualmente, estou cursando Sistemas de Informação na UFES.
+Oi. Me chamo Júlya Fonseca Couto, tenho 20 anos e sou natural do Goiás. Concluí o ensino médio no IFES. Atualmente, estou cursando Sistemas de Informação na UFES.
 
 <p align="left">
     <a href="https://github.com/eafonseca?tab=repositories&sort=stargazers">
