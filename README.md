@@ -4,25 +4,6 @@
 
 Oi. Me chamo Júlya Fonseca Couto, tenho 20 anos e sou natural do Goiás. Concluí o ensino médio no IFES. Atualmente, estou cursando Sistemas de Informação na UFES.
 
-<p align="left">
-    <a href="https://github.com/eafonseca?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/eafonseca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/eafonseca?tab=followers">
-        <img
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/eafonseca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
